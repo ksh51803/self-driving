@@ -1,6 +1,6 @@
 # 이력서
 ## 자기소개
-!(https://octodex.github.com/images/yaktocat.png)
+![](https://octodex.github.com/images/yaktocat.png)
 * 이름 : 
 * email :
 
